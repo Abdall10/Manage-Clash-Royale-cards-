@@ -101,7 +101,8 @@ This project consists of three main files:
 
 ---
 
-This project demonstrates **singly linked list operations** applied to a practical example using Clash Royale cards.
+create by: Abdallah Rafat Mady.
+
 
 
 
