@@ -53,15 +53,12 @@ A simple **C++ project** to manage Clash Royale cards using a **singly linked li
 2. Compile the source files:  
    ```bash
    g++ -c classList.cpp
-   g++ main.cpp classList.o -o ClashRoyaleCards
-Run the program:
+   g++ main.cpp classList.o -o myProgram
 
-bash
-Copy code
-./ClashRoyaleCards
+3. Run the program:
+   ./myProgram
+
 Example Output
-yaml
-Copy code
 Original list of first 10 Clash Royale cards:
 
 --- Clash Royale Cards ---
@@ -99,7 +96,9 @@ ID: 15 | Name: Goblin Gang   | Elixir: 3
 
 Found card 'Giant'. Elixir cost: 5
 Total number of cards: 15
+
 Notes
+
 The project uses a singly linked list to store cards.
 
 Cards can be added in order or appended at the end.
