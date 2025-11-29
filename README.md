@@ -101,7 +101,7 @@ This project consists of three main files:
 
 ---
 
-All code is manually implemented by **Abdallah Raafat Mady**, without any AI assistance.  
 This project demonstrates **singly linked list operations** applied to a practical example using Clash Royale cards.
+
 
 
